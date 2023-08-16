@@ -32,7 +32,7 @@ const Products = [
         productImage: S23,
     },
     {
-        
+
         id: 5,
         productName: "Huawei ",
         price: 670,
@@ -40,7 +40,7 @@ const Products = [
     },
     {
         id: 6,
-        productName : "OnePlus 8", // Corrected the spelling
+        productName: "OnePlus 8", // Corrected the spelling
         price: 2000,
         productImage: ONEPLUS,
     },
